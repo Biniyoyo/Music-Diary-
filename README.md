@@ -30,3 +30,8 @@ node.js
 openaiapi
 react.js
 sunoai
+<img width="655" alt="Screenshot 2024-05-18 at 11 13 48 PM" src="https://github.com/Biniyoyo/Music-Diary-/assets/84908082/103a83fd-a8d5-4871-b21a-3baafe166743">
+![gallery](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/3c773802-3d57-41ea-a32b-a46f5e2ee914)
+![gallery (2)](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/64d8df97-4a7c-4e85-a24d-dad514d6f56b)
+![gallery (1)](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/61e27214-a7a8-4748-ba84-383f3231142d)
+
