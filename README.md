@@ -31,7 +31,14 @@ react.js
 sunoai
 
 <img width="655" alt="Screenshot 2024-05-18 at 11 13 48 PM" src="https://github.com/Biniyoyo/Music-Diary-/assets/84908082/e7a45cbe-06a9-4f9c-bb1d-16abe18312b5">
-![gallery](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/cb8c9518-b919-4c87-a24d-7c78f3c614c7)
+![gallery](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/992a7afc-dd6c-4989-95fc-5094c1eab194)
+![gallery (1)](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/11e8aa0d-8756-49f4-8458-2b565a69cc70)
+![gallery (2)](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/65cf683d-c9ef-40d8-9d9e-61354021f9b1)
+![gallery (3)](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/6df0e467-80d3-4aa7-9cd5-67b6ad879097)
+![gallery (4)](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/c5bc3763-aedc-4c15-a7a1-4eaeeab7d4c0)
+![gallery (5)](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/063b4a44-ec96-4e2a-af49-2162be1977b1)
+
+
 
 
  
