@@ -1,4 +1,6 @@
-Inspiration
+#Music Diary
+
+##Inspiration
 Many of us find solace in sad music during tough times. Research indicates that 10% of Americans grapple with depression, and the limited medical system can't reach everyone. Music, a potent healing force, is even recognized in the medical field through music therapy. To aid those struggling with depression, we crafted MusicDiary, combining consolatory messages and music powered by AI to offer comfort.
 
 What it does
