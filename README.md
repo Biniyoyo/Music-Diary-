@@ -36,7 +36,7 @@ sunoai
 ![gallery (3)](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/5dacc44d-9281-4667-879a-f524b00c89fc)
 ![gallery (5)](https://github.com/Biniyoyo/Music-Diary-/assets/84908082/22aab342-b9f6-41df-aa7b-2ac70df3ac5a)
 
-
+ 
 
 
 
